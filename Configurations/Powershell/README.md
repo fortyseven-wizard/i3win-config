@@ -1,1 +1,0 @@
-Make sure to install `eza` for alias compatiblity. Check the Notes section in the top of main readme for complete setup for this.
