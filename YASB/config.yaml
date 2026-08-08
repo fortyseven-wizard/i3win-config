@@ -329,7 +329,7 @@ widgets:
     type: "yasb.battery.BatteryWidget"
     options:
       label: "{percent}% {power}W"
-      label_alt: "<span>{icon}</span>{percent}% / {power}W"
+      label_alt: "<span>{icon}</span>{percent}%"
       update_interval: 5000
       hide_unsupported: true
       time_remaining_natural: false
