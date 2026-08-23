@@ -392,6 +392,23 @@ widgets:
 
         - pattern: "Steam Client WebHelper"
           replacement: "Steam"
+
+  # Daily
+        - pattern: "Adobe After Effects .*"
+          replacement: "Adobe After Effects"
+
+        - pattern: "Adobe Illustrator .*"
+          replacement: "Adobe Illustrator"
+
+        - pattern: "Adobe InDesign .*"
+          replacement: "Adobe InDesign"
+
+        - pattern: "Adobe Photoshop .*"
+          replacement: "Adobe Photoshop"
+
+        - pattern: "Peter's .*"
+          replacement: "Peace"
+
   lines:
     type: "yasb.custom.CustomWidget"
     options:
