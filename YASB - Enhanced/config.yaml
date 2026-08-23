@@ -393,7 +393,6 @@ widgets:
         - pattern: "Steam Client WebHelper"
           replacement: "Steam"
 
-  # Daily
         - pattern: "Adobe After Effects .*"
           replacement: "Adobe After Effects"
 
@@ -408,6 +407,9 @@ widgets:
 
         - pattern: "Peter's .*"
           replacement: "Peace"
+
+        - pattern: "Brave .*"
+          replacement: "Brave"
 
   lines:
     type: "yasb.custom.CustomWidget"
