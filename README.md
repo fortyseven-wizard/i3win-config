@@ -1,8 +1,17 @@
+``` Classic Look ```
+
 <img src="https://github.com/user-attachments/assets/d0c1ca4e-ba5b-466b-8f27-1af68fb52986" width="49%"></img>
 <img src="https://github.com/user-attachments/assets/b4eff597-937c-4c66-b9b3-ed2600580798" width="49%"></img> 
-
 <img src="https://github.com/user-attachments/assets/c719a2df-e15b-4f8a-a5aa-140885215eb2" width="98%"/>
+
+``` Enhanced ```
+
 <img width="98%" src="https://github.com/user-attachments/assets/a82ea1a9-809c-4f0f-8d9b-a24d5b4251ab" />
+
+``` Default Look ```
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37dc4784-94c8-495c-a4fe-a05791276f8a" />
+
 
 
 
