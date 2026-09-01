@@ -6,11 +6,21 @@ Wallpaper: https://steamcommunity.com/sharedfiles/filedetails/?id=915680280
 <img src="https://github.com/user-attachments/assets/b4eff597-937c-4c66-b9b3-ed2600580798" width="49%"></img> 
 <img src="https://github.com/user-attachments/assets/c719a2df-e15b-4f8a-a5aa-140885215eb2" width="98%"/>
 
+<p></p>
+
 ``` cizgoamqcp1se/ aka Enhanced ```
 
 Wallpaper: https://steamcommunity.com/sharedfiles/filedetails/?id=3175692671
 
 <img width="98%" src="https://github.com/user-attachments/assets/a82ea1a9-809c-4f0f-8d9b-a24d5b4251ab" />
+
+<p></p>
+
+``` qtosg4d3p7zy/ aka Tachyon ```
+
+Wallpaper: https://steamcommunity.com/sharedfiles/filedetails/?id=2835320262
+
+<img width="1920" height="1080" alt="8smWLhK9GS" src="https://github.com/user-attachments/assets/1469da32-fc5a-4792-8af1-5958699489cf" />
 
 
 ## i3win
