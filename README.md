@@ -20,7 +20,10 @@ Wallpaper: https://steamcommunity.com/sharedfiles/filedetails/?id=3175692671
 
 Wallpaper: https://steamcommunity.com/sharedfiles/filedetails/?id=2835320262
 
-<img width="1920" height="1080" alt="8smWLhK9GS" src="https://github.com/user-attachments/assets/1469da32-fc5a-4792-8af1-5958699489cf" />
+<img width="49%" src="https://github.com/user-attachments/assets/1469da32-fc5a-4792-8af1-5958699489cf" />
+<img width="49%" src="https://github.com/user-attachments/assets/2f25bd0f-d419-4528-ade4-e28ae9bd4bf2" />
+
+
 
 <hr>
 
@@ -81,7 +84,6 @@ recommended Windows installation overview: https://wispydocs.pages.dev/windows/
 
 ### Usage
 
-
 GlazeWM: 
 
 `` C:\Users\%username%\.glzr\glazewm ``
@@ -97,7 +99,19 @@ Flow Launcher:
 fastfetch + oh-my-posh
 
 ```
-New-Item -Path $PROFILE -Type File -Force
 C:\Users\%username%\.config\fastfetch
 C:\Users\%username%\.config\oh-my-posh
+```
+
+pwsh_ps1
+
+```
+<# add-target: -NoLogo
+   setup-profile: New-Item -Path $PROFILE -Type File -Force #>
+
+clear
+cd ~
+fastfetch -l C:\Users\%username%\.config\fastfetch\ascii-art.txt -c C:\Users\%username%\.config\fastfetch\config.jsonc --logo-color-1 "#F5BDE6" --color "#8AADF4"
+oh-my-posh init pwsh --config "C:\Users\%username%\.config\oh-my-posh\catppuccin.omp.json" | Invoke-Expression
+echo "`n"
 ```
