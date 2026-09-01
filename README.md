@@ -22,8 +22,9 @@ Wallpaper: https://steamcommunity.com/sharedfiles/filedetails/?id=2835320262
 
 <img width="1920" height="1080" alt="8smWLhK9GS" src="https://github.com/user-attachments/assets/1469da32-fc5a-4792-8af1-5958699489cf" />
 
+<hr>
 
-## i3win
+### i3win
 recommended Windows installation overview: https://wispydocs.pages.dev/windows/
 
 #### ricing-tools: 
@@ -71,8 +72,15 @@ recommended Windows installation overview: https://wispydocs.pages.dev/windows/
 - <a href="https://github.com/cowboy8625/rusty-rain">rusty-rain</a>/ matrix rain in cli
 
     `` winget install cowboy8625.rusty-rain ``
+- <a href="https://ohmyposh.dev/">oh-my-posh</a>/ shell customization
 
-### Usage: Copy the preconfiged into these folders
+    ```
+    winget install JanDeDobbeleer.OhMyPosh --source winget
+    winget install -e --id DEVCOM.JetBrainsMonoNerdFont
+    ```
+
+### Usage
+
 
 GlazeWM: 
 
@@ -81,3 +89,15 @@ GlazeWM:
 YASB:
 
 `` C:\Users\%username%\.config\yasb ``
+
+Flow Launcher:
+
+``` C:\Users\%username%\AppData\Roaming\FlowLauncher ```
+
+fastfetch + oh-my-posh
+
+```
+New-Item -Path $PROFILE -Type File -Force
+C:\Users\%username%\.config\fastfetch
+C:\Users\%username%\.config\oh-my-posh
+```
