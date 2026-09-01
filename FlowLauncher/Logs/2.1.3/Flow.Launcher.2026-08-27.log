@@ -1,0 +1,51 @@
+05:11:05.4882+07:00 - INFO  - App.OnStartup - Begin Flow Launcher startup ----------------------------------------------------
+05:11:05.4882+07:00 - INFO  - App.OnStartup - Runtime info:
+Flow Launcher version: 2.1.3
+OS Version: 19044.7663
+IntPtr Length: 8
+x64: True
+05:11:05.8171+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://fastly.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+05:11:05.8476+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://gcore.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+05:11:05.8476+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+05:11:05.8476+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.PluginsManifest/main/plugins.json
+05:11:06.0954+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loaded 354 plugins from https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+05:11:06.0954+07:00 - WARN  - CommunityPluginSource.FetchAsync - Failed to load resource https://fastly.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json with response InternalServerError
+05:11:06.0954+07:00 - WARN  - CommunityPluginSource.FetchAsync - Failed to load resource https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.PluginsManifest/main/plugins.json with response InternalServerError
+05:11:06.0954+07:00 - WARN  - CommunityPluginSource.FetchAsync - Failed to load resource https://gcore.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json with response InternalServerError
+05:11:07.6483+07:00 - INFO  - App.OnStartup - End Flow Launcher startup ------------------------------------------------------
+05:11:07.6483+07:00 - INFO  - App.OnStartup - Begin plugin initialization ----------------------------------------------------
+05:11:07.7525+07:00 - INFO  - ImageLoader.InitializeAsync - Preload images cost <1860ms>
+05:11:07.7525+07:00 - INFO  - ImageLoader.InitializeAsync - Number of preload images is <116>, Images Number: 116, Unique Items 78
+05:11:09.3957+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Plugin Indicator> is <49ms>
+05:11:09.4099+07:00 - INFO  - App.OnStartup - Startup cost <4380ms>
+05:11:09.4223+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Plugins Manager> is <240ms>
+05:11:09.4223+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <System Commands> is <184ms>
+05:11:09.4420+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Windows Settings> is <191ms>
+05:11:09.5324+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Process Killer> is <213ms>
+05:11:09.5324+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <URL> is <213ms>
+05:11:09.5324+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Shell> is <311ms>
+05:11:09.5424+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Web Searches> is <279ms>
+05:11:09.5748+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Explorer> is <363ms>
+05:11:09.5748+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Calculator> is <306ms>
+05:11:09.5911+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Browser Bookmarks> is <382ms>
+05:11:09.6233+07:00 - INFO  - Main.InitAsync - Preload programs cost <51ms>
+05:11:09.6233+07:00 - INFO  - Main.InitAsync - Number of preload win32 programs <115>
+05:11:09.6233+07:00 - INFO  - Main.InitAsync - Number of preload uwps <8>
+05:11:09.6573+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Program> is <349ms>
+05:11:09.8596+07:00 - INFO  - App.OnStartup - End plugin initialization ------------------------------------------------------
+05:11:09.8596+07:00 - INFO  - App.OnStartup - Startup cost <2211ms>
+05:11:32.0639+07:00 - INFO  - App.RegisterExitEvents - Session Ending
+05:58:08.0016+07:00 - INFO  - App.OnStartup - Begin Flow Launcher startup ----------------------------------------------------
+05:58:08.0016+07:00 - INFO  - App.OnStartup - Runtime info:
+Flow Launcher version: 2.1.3
+OS Version: 19044.7663
+IntPtr Length: 8
+x64: True
+05:58:08.4549+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://fastly.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+05:58:08.4940+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://gcore.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+05:58:08.4940+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+05:58:08.4940+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.PluginsManifest/main/plugins.json
+05:58:08.5572+07:00 - WARN  - CommunityPluginSource.FetchAsync - Failed to load resource https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.PluginsManifest/main/plugins.json with response InternalServerError
+05:58:08.5572+07:00 - WARN  - CommunityPluginSource.FetchAsync - Failed to load resource https://fastly.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json with response InternalServerError
+05:58:08.5572+07:00 - WARN  - CommunityPluginSource.FetchAsync - Failed to load resource https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json with response InternalServerError
+05:58:08.5572+07:00 - WARN  - CommunityPluginSource.FetchAsync - Failed to load resource https://gcore.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json with response InternalServerError

@@ -1,0 +1,850 @@
+13:28:36.0703+07:00 - INFO  - Main.IndexProgramsAsync - UWPProgram index cost <258ms>
+13:28:37.0206+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:28:37.0206+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\computer.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:28:37.0206+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:28:37.0309+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:28:37.0309+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Control Panel.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:28:37.0309+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:28:37.0447+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:28:37.0447+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Run.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:28:37.0447+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:28:37.9499+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:28:37.9499+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:28:37.9499+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:28:39.7965+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:28:39.7965+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\computer.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:28:39.7965+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:28:39.8089+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:28:39.8089+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Control Panel.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:28:39.8089+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:28:39.8324+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:28:39.8324+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Run.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:28:39.8324+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:28:40.0358+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:28:40.0358+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:28:40.0358+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:28:41.8210+07:00 - INFO  - Main.IndexProgramsAsync - Win32Program index cost <6009ms>
+13:28:42.7226+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:28:42.7226+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\computer.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:28:42.7226+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:28:42.7280+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:28:42.7280+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Control Panel.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:28:42.7280+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:28:42.7280+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:28:42.7280+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Run.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:28:42.7280+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:28:42.8317+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:28:42.8317+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:28:42.8317+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:35:00.8073+07:00 - INFO  - Main.IndexProgramsAsync - UWPProgram index cost <213ms>
+13:35:00.8230+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:35:00.8230+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\computer.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:35:00.8230+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:35:00.8230+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:35:00.8230+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Control Panel.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:35:00.8230+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:35:00.8400+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:35:00.8400+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Run.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:35:00.8400+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:35:00.9376+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:35:00.9376+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:35:00.9376+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:35:01.0683+07:00 - INFO  - Main.IndexProgramsAsync - Win32Program index cost <474ms>
+13:35:03.3510+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:35:03.3510+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\computer.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:35:03.3510+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:35:03.3577+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:35:03.3577+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Control Panel.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:35:03.3577+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:35:03.3724+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:35:03.3724+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Run.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:35:03.3724+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+13:35:03.4890+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+13:35:03.4890+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+13:35:03.4890+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+15:13:08.3170+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+15:13:08.3170+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\computer.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+15:13:08.3170+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+15:13:08.3237+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+15:13:08.3237+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Control Panel.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+15:13:08.3237+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+15:13:08.3397+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+15:13:08.3397+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Run.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+15:13:08.3397+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+15:13:09.4288+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+15:13:09.4288+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+15:13:09.4288+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+15:24:26.1919+07:00 - INFO  - App.RegisterExitEvents - Session Ending
+21:31:40.8801+07:00 - INFO  - App.OnStartup - Begin Flow Launcher startup ----------------------------------------------------
+21:31:40.8801+07:00 - INFO  - App.OnStartup - Runtime info:
+Flow Launcher version: 2.1.3
+OS Version: 19044.7663
+IntPtr Length: 8
+x64: True
+21:31:41.2424+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://fastly.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+21:31:41.2803+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://gcore.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+21:31:41.2803+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+21:31:41.2803+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.PluginsManifest/main/plugins.json
+21:31:42.0081+07:00 - INFO  - ImageLoader.InitializeAsync - Preload images cost <670ms>
+21:31:42.0081+07:00 - INFO  - ImageLoader.InitializeAsync - Number of preload images is <48>, Images Number: 48, Unique Items 43
+21:31:44.0729+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loaded 354 plugins from https://gcore.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+21:31:44.0729+07:00 - WARN  - CommunityPluginSource.FetchAsync - Failed to load resource https://fastly.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json with response InternalServerError
+21:31:45.4465+07:00 - INFO  - App.OnStartup - End Flow Launcher startup ------------------------------------------------------
+21:31:45.4465+07:00 - INFO  - App.OnStartup - Begin plugin initialization ----------------------------------------------------
+21:31:46.9958+07:00 - INFO  - App.OnStartup - Startup cost <6606ms>
+21:31:46.9991+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Plugin Indicator> is <45ms>
+21:31:47.0133+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Process Killer> is <94ms>
+21:31:47.0133+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <URL> is <85ms>
+21:31:47.0133+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Plugins Manager> is <194ms>
+21:31:47.0133+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <System Commands> is <160ms>
+21:31:47.0292+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Windows Settings> is <169ms>
+21:31:47.1087+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Shell> is <240ms>
+21:31:47.1087+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Web Searches> is <245ms>
+21:31:47.1367+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Calculator> is <248ms>
+21:31:47.1386+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Browser Bookmarks> is <305ms>
+21:31:47.1386+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Explorer> is <315ms>
+21:31:47.1766+07:00 - INFO  - Main.InitAsync - Preload programs cost <43ms>
+21:31:47.1766+07:00 - INFO  - Main.InitAsync - Number of preload win32 programs <112>
+21:31:47.1766+07:00 - INFO  - Main.InitAsync - Number of preload uwps <8>
+21:31:47.1766+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Program> is <254ms>
+21:31:47.4042+07:00 - INFO  - App.OnStartup - End plugin initialization ------------------------------------------------------
+21:31:47.4042+07:00 - INFO  - App.OnStartup - Startup cost <1958ms>
+21:31:47.5219+07:00 - INFO  - Main.IndexProgramsAsync - UWPProgram index cost <343ms>
+21:31:47.9337+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+21:31:47.9337+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\computer.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+21:31:47.9337+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+21:31:47.9434+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+21:31:47.9434+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Control Panel.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+21:31:47.9434+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+21:31:47.9578+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+21:31:47.9578+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Run.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+21:31:47.9578+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+21:31:48.2814+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+21:31:48.2814+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+21:31:48.2814+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+21:31:48.8324+07:00 - INFO  - Main.IndexProgramsAsync - Win32Program index cost <1653ms>
+21:45:41.2085+07:00 - INFO  - App.RegisterExitEvents - Session Ending
+22:11:12.5415+07:00 - INFO  - App.OnStartup - Begin Flow Launcher startup ----------------------------------------------------
+22:11:12.5415+07:00 - INFO  - App.OnStartup - Runtime info:
+Flow Launcher version: 2.1.3
+OS Version: 19044.7663
+IntPtr Length: 8
+x64: True
+22:11:12.9742+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://fastly.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+22:11:13.0129+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://gcore.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+22:11:13.0129+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+22:11:13.0129+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.PluginsManifest/main/plugins.json
+22:11:13.9443+07:00 - INFO  - ImageLoader.InitializeAsync - Preload images cost <865ms>
+22:11:13.9497+07:00 - INFO  - ImageLoader.InitializeAsync - Number of preload images is <48>, Images Number: 48, Unique Items 43
+22:11:14.8211+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loaded 354 plugins from https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+22:11:16.7316+07:00 - INFO  - App.OnStartup - End Flow Launcher startup ------------------------------------------------------
+22:11:16.7316+07:00 - INFO  - App.OnStartup - Begin plugin initialization ----------------------------------------------------
+22:11:18.6056+07:00 - INFO  - App.OnStartup - Startup cost <6581ms>
+22:11:18.6056+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Plugin Indicator> is <53ms>
+22:11:18.6251+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Plugins Manager> is <222ms>
+22:11:18.6251+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <URL> is <108ms>
+22:11:18.6251+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <System Commands> is <175ms>
+22:11:18.6251+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Process Killer> is <106ms>
+22:11:18.6418+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Windows Settings> is <168ms>
+22:11:18.7342+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Shell> is <287ms>
+22:11:18.7608+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Web Searches> is <279ms>
+22:11:18.7608+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Browser Bookmarks> is <386ms>
+22:11:18.7608+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Calculator> is <310ms>
+22:11:18.7608+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Explorer> is <357ms>
+22:11:18.8191+07:00 - INFO  - Main.InitAsync - Preload programs cost <56ms>
+22:11:18.8191+07:00 - INFO  - Main.InitAsync - Number of preload win32 programs <112>
+22:11:18.8191+07:00 - INFO  - Main.InitAsync - Number of preload uwps <8>
+22:11:18.8191+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Program> is <307ms>
+22:11:19.0973+07:00 - INFO  - App.OnStartup - End plugin initialization ------------------------------------------------------
+22:11:19.0973+07:00 - INFO  - App.OnStartup - Startup cost <2366ms>
+22:11:19.1899+07:00 - INFO  - Main.IndexProgramsAsync - UWPProgram index cost <368ms>
+22:11:20.6893+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+22:11:20.6893+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\computer.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+22:11:20.6893+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+22:11:20.6893+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+22:11:20.6893+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Control Panel.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+22:11:20.6893+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+22:11:20.7078+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+22:11:20.7078+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Run.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+22:11:20.7078+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+22:11:21.5098+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+22:11:21.5098+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+22:11:21.5098+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+22:11:22.6340+07:00 - INFO  - Main.IndexProgramsAsync - Win32Program index cost <3812ms>
+22:18:58.3022+07:00 - INFO  - App.RegisterExitEvents - Session Ending
+22:30:55.0842+07:00 - INFO  - App.OnStartup - Begin Flow Launcher startup ----------------------------------------------------
+22:30:55.0842+07:00 - INFO  - App.OnStartup - Runtime info:
+Flow Launcher version: 2.1.3
+OS Version: 19044.7663
+IntPtr Length: 8
+x64: True
+22:30:55.5693+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://fastly.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+22:30:55.6084+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://gcore.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+22:30:55.6084+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+22:30:55.6084+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.PluginsManifest/main/plugins.json
+22:30:56.4114+07:00 - INFO  - ImageLoader.InitializeAsync - Preload images cost <739ms>
+22:30:56.4172+07:00 - INFO  - ImageLoader.InitializeAsync - Number of preload images is <48>, Images Number: 48, Unique Items 43
+22:30:56.7205+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loaded 354 plugins from https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.PluginsManifest/main/plugins.json
+22:30:58.6206+07:00 - INFO  - App.OnStartup - End Flow Launcher startup ------------------------------------------------------
+22:30:58.6206+07:00 - INFO  - App.OnStartup - Begin plugin initialization ----------------------------------------------------
+22:31:00.3185+07:00 - INFO  - App.OnStartup - Startup cost <5783ms>
+22:31:00.3229+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Plugin Indicator> is <48ms>
+22:31:00.3400+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Plugins Manager> is <230ms>
+22:31:00.3400+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <URL> is <93ms>
+22:31:00.3400+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Process Killer> is <104ms>
+22:31:00.3674+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Windows Settings> is <206ms>
+22:31:00.4686+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Shell> is <286ms>
+22:31:00.4842+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <System Commands> is <317ms>
+22:31:00.5085+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Web Searches> is <337ms>
+22:31:00.5116+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Browser Bookmarks> is <365ms>
+22:31:00.5116+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Calculator> is <307ms>
+22:31:00.5116+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Explorer> is <373ms>
+22:31:00.5653+07:00 - INFO  - Main.InitAsync - Preload programs cost <55ms>
+22:31:00.5653+07:00 - INFO  - Main.InitAsync - Number of preload win32 programs <112>
+22:31:00.5653+07:00 - INFO  - Main.InitAsync - Number of preload uwps <8>
+22:31:00.6056+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Program> is <361ms>
+22:31:00.9676+07:00 - INFO  - App.OnStartup - End plugin initialization ------------------------------------------------------
+22:31:00.9676+07:00 - INFO  - App.OnStartup - Startup cost <2347ms>
+22:38:29.4881+07:00 - INFO  - App.RegisterExitEvents - Session Ending
+22:51:12.1463+07:00 - INFO  - App.OnStartup - Begin Flow Launcher startup ----------------------------------------------------
+22:51:12.1463+07:00 - INFO  - App.OnStartup - Runtime info:
+Flow Launcher version: 2.1.3
+OS Version: 19044.7663
+IntPtr Length: 8
+x64: True
+22:51:12.5095+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://fastly.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+22:51:12.5454+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://gcore.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+22:51:12.5454+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+22:51:12.5454+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.PluginsManifest/main/plugins.json
+22:51:13.2602+07:00 - INFO  - ImageLoader.InitializeAsync - Preload images cost <660ms>
+22:51:13.2602+07:00 - INFO  - ImageLoader.InitializeAsync - Number of preload images is <48>, Images Number: 48, Unique Items 43
+22:51:14.1063+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loaded 354 plugins from https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+22:51:15.6155+07:00 - INFO  - App.OnStartup - End Flow Launcher startup ------------------------------------------------------
+22:51:15.6155+07:00 - INFO  - App.OnStartup - Begin plugin initialization ----------------------------------------------------
+22:51:17.2992+07:00 - INFO  - App.OnStartup - Startup cost <5682ms>
+22:51:17.2992+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Plugin Indicator> is <47ms>
+22:51:17.3215+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Process Killer> is <89ms>
+22:51:17.3222+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Plugins Manager> is <193ms>
+22:51:17.3222+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <URL> is <91ms>
+22:51:17.3222+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <System Commands> is <176ms>
+22:51:17.3222+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Windows Settings> is <169ms>
+22:51:17.4280+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Shell> is <257ms>
+22:51:17.4760+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Web Searches> is <293ms>
+22:51:17.4760+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Browser Bookmarks> is <357ms>
+22:51:17.4817+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Calculator> is <318ms>
+22:51:17.4817+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Explorer> is <400ms>
+22:51:17.5369+07:00 - INFO  - Main.InitAsync - Preload programs cost <59ms>
+22:51:17.5369+07:00 - INFO  - Main.InitAsync - Number of preload win32 programs <112>
+22:51:17.5369+07:00 - INFO  - Main.InitAsync - Number of preload uwps <8>
+22:51:17.5771+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Program> is <356ms>
+22:51:17.9212+07:00 - INFO  - App.OnStartup - End plugin initialization ------------------------------------------------------
+22:51:17.9212+07:00 - INFO  - App.OnStartup - Startup cost <2305ms>
+22:54:52.2676+07:00 - INFO  - App.RegisterExitEvents - Session Ending
+22:58:22.0295+07:00 - INFO  - App.OnStartup - Begin Flow Launcher startup ----------------------------------------------------
+22:58:22.0295+07:00 - INFO  - App.OnStartup - Runtime info:
+Flow Launcher version: 2.1.3
+OS Version: 19044.7663
+IntPtr Length: 8
+x64: True
+22:58:22.4292+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://fastly.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+22:58:22.4673+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://gcore.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+22:58:22.4673+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+22:58:22.4673+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.PluginsManifest/main/plugins.json
+22:58:23.3401+07:00 - INFO  - ImageLoader.InitializeAsync - Preload images cost <814ms>
+22:58:23.3456+07:00 - INFO  - ImageLoader.InitializeAsync - Number of preload images is <56>, Images Number: 56, Unique Items 45
+22:58:23.7362+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loaded 354 plugins from https://fastly.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+22:58:23.7362+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loaded 354 plugins from https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.PluginsManifest/main/plugins.json
+22:58:23.7362+07:00 - WARN  - CommunityPluginSource.FetchAsync - Failed to load resource https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json with response InternalServerError
+22:58:25.4098+07:00 - INFO  - App.OnStartup - End Flow Launcher startup ------------------------------------------------------
+22:58:25.4098+07:00 - INFO  - App.OnStartup - Begin plugin initialization ----------------------------------------------------
+22:58:27.2243+07:00 - INFO  - App.OnStartup - Startup cost <5717ms>
+22:58:27.2243+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Plugin Indicator> is <49ms>
+22:58:27.2438+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Plugins Manager> is <202ms>
+22:58:27.2482+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <URL> is <101ms>
+22:58:27.2634+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Windows Settings> is <175ms>
+22:58:27.3635+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <System Commands> is <312ms>
+22:58:27.3635+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Process Killer> is <218ms>
+22:58:27.3776+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Shell> is <296ms>
+22:58:27.3968+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Web Searches> is <305ms>
+22:58:27.3968+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Browser Bookmarks> is <406ms>
+22:58:27.3968+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Calculator> is <312ms>
+22:58:27.4066+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Explorer> is <356ms>
+22:58:27.4486+07:00 - INFO  - Main.InitAsync - Preload programs cost <51ms>
+22:58:27.4486+07:00 - INFO  - Main.InitAsync - Number of preload win32 programs <112>
+22:58:27.4486+07:00 - INFO  - Main.InitAsync - Number of preload uwps <8>
+22:58:27.4870+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Program> is <365ms>
+22:58:27.6756+07:00 - INFO  - App.OnStartup - End plugin initialization ------------------------------------------------------
+22:58:27.6756+07:00 - INFO  - App.OnStartup - Startup cost <2266ms>
+23:03:29.1356+07:00 - INFO  - App.RegisterExitEvents - Session Ending
+23:05:41.4391+07:00 - INFO  - App.OnStartup - Begin Flow Launcher startup ----------------------------------------------------
+23:05:41.4391+07:00 - INFO  - App.OnStartup - Runtime info:
+Flow Launcher version: 2.1.3
+OS Version: 19044.7663
+IntPtr Length: 8
+x64: True
+23:05:41.8597+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://fastly.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+23:05:41.9002+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://gcore.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+23:05:41.9002+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+23:05:41.9002+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.PluginsManifest/main/plugins.json
+23:05:42.3772+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loaded 354 plugins from https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+23:05:42.3772+07:00 - WARN  - CommunityPluginSource.FetchAsync - Failed to load resource https://gcore.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json with response InternalServerError
+23:05:42.3772+07:00 - WARN  - CommunityPluginSource.FetchAsync - Failed to load resource https://fastly.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json with response InternalServerError
+23:05:42.9323+07:00 - INFO  - ImageLoader.InitializeAsync - Preload images cost <970ms>
+23:05:42.9379+07:00 - INFO  - ImageLoader.InitializeAsync - Number of preload images is <59>, Images Number: 59, Unique Items 48
+23:05:44.0374+07:00 - INFO  - App.OnStartup - End Flow Launcher startup ------------------------------------------------------
+23:05:44.0374+07:00 - INFO  - App.OnStartup - Begin plugin initialization ----------------------------------------------------
+23:05:45.7420+07:00 - INFO  - App.OnStartup - Startup cost <4788ms>
+23:05:45.7460+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Plugin Indicator> is <61ms>
+23:05:45.7460+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Process Killer> is <91ms>
+23:05:45.7814+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Windows Settings> is <169ms>
+23:05:45.8868+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Plugins Manager> is <330ms>
+23:05:45.8877+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <URL> is <208ms>
+23:05:45.8877+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Shell> is <285ms>
+23:05:45.8877+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <System Commands> is <299ms>
+23:05:45.9235+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Web Searches> is <300ms>
+23:05:45.9364+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Browser Bookmarks> is <400ms>
+23:05:45.9364+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Calculator> is <320ms>
+23:05:45.9364+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Explorer> is <387ms>
+23:05:45.9941+07:00 - INFO  - Main.InitAsync - Preload programs cost <68ms>
+23:05:45.9941+07:00 - INFO  - Main.InitAsync - Number of preload win32 programs <112>
+23:05:45.9941+07:00 - INFO  - Main.InitAsync - Number of preload uwps <8>
+23:05:46.0266+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Program> is <369ms>
+23:05:46.2661+07:00 - INFO  - App.OnStartup - End plugin initialization ------------------------------------------------------
+23:05:46.2661+07:00 - INFO  - App.OnStartup - Startup cost <2228ms>
+23:12:39.8150+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+23:12:39.8150+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\computer.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+23:12:39.8150+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+23:12:39.8150+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+23:12:39.8150+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Control Panel.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+23:12:39.8150+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+23:12:39.8319+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+23:12:39.8319+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Run.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+23:12:39.8319+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+23:12:40.5889+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+23:12:40.5889+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+23:12:40.5889+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+23:17:31.0919+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+23:17:31.0919+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\computer.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+23:17:31.0919+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+23:17:31.0919+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+23:17:31.0919+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Control Panel.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+23:17:31.0919+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+23:17:31.1094+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+23:17:31.1094+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\Users\Tateisukan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Run.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+23:17:31.1094+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+23:17:32.1127+07:00 - ERROR -  - ------------- BEGIN Flow.Launcher.Plugin.Program exception -------------
+23:17:32.1127+07:00 - ERROR -  - 
+Exception full name: System.Runtime.InteropServices.COMException
+Error status: UNKNOWN
+Class name: ShellLinkReader
+Calling method: retrieveDescription
+Program path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player.lnk
+InnerException number: 1
+Exception message: Unexpected HRESULT has been returned from a call to a COM component.
+Exception error type: HResult -2147467259
+Exception thrown in called method: Void GetDescription(Windows.Win32.Foundation.PWSTR, Int32)
+Possible interpretation of the error: Error caused likely due to trying to get the description of the program
+Possible resolution: Not yet known
+23:17:32.1127+07:00 - ERROR -  - ------------- END Flow.Launcher.Plugin.Program exception -------------
+23:19:26.6843+07:00 - INFO  - App.RegisterExitEvents - Session Ending
+23:21:38.6243+07:00 - INFO  - App.OnStartup - Begin Flow Launcher startup ----------------------------------------------------
+23:21:38.6243+07:00 - INFO  - App.OnStartup - Runtime info:
+Flow Launcher version: 2.1.3
+OS Version: 19044.7663
+IntPtr Length: 8
+x64: True
+23:21:39.0008+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://fastly.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+23:21:39.0316+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://gcore.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+23:21:39.0316+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+23:21:39.0316+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.PluginsManifest/main/plugins.json
+23:21:39.3136+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loaded 354 plugins from https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+23:21:39.3136+07:00 - WARN  - CommunityPluginSource.FetchAsync - Failed to load resource https://fastly.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json with response InternalServerError
+23:21:39.3136+07:00 - WARN  - CommunityPluginSource.FetchAsync - Failed to load resource https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.PluginsManifest/main/plugins.json with response InternalServerError
+23:21:40.0457+07:00 - INFO  - ImageLoader.InitializeAsync - Preload images cost <963ms>
+23:21:40.0457+07:00 - INFO  - ImageLoader.InitializeAsync - Number of preload images is <60>, Images Number: 60, Unique Items 49
+23:21:40.8341+07:00 - INFO  - App.OnStartup - End Flow Launcher startup ------------------------------------------------------
+23:21:40.8341+07:00 - INFO  - App.OnStartup - Begin plugin initialization ----------------------------------------------------
+23:21:42.5871+07:00 - INFO  - App.OnStartup - Startup cost <4416ms>
+23:21:42.5916+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Plugin Indicator> is <53ms>
+23:21:42.6087+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Plugins Manager> is <230ms>
+23:21:42.6087+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Process Killer> is <104ms>
+23:21:42.6087+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <URL> is <96ms>
+23:21:42.6222+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <System Commands> is <211ms>
+23:21:42.6366+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Windows Settings> is <190ms>
+23:21:42.7387+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Shell> is <290ms>
+23:21:42.7387+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Web Searches> is <284ms>
+23:21:42.7609+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Browser Bookmarks> is <364ms>
+23:21:42.7673+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Calculator> is <291ms>
+23:21:42.7673+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Explorer> is <364ms>
+23:21:42.8232+07:00 - INFO  - Main.InitAsync - Preload programs cost <60ms>
+23:21:42.8235+07:00 - INFO  - Main.InitAsync - Number of preload win32 programs <115>
+23:21:42.8235+07:00 - INFO  - Main.InitAsync - Number of preload uwps <8>
+23:21:42.8565+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Program> is <349ms>
+23:21:43.0620+07:00 - INFO  - App.OnStartup - End plugin initialization ------------------------------------------------------
+23:21:43.0620+07:00 - INFO  - App.OnStartup - Startup cost <2228ms>
+23:22:46.6491+07:00 - INFO  - App.RegisterExitEvents - Session Ending
+16:47:35.0054+07:00 - INFO  - App.OnStartup - Begin Flow Launcher startup ----------------------------------------------------
+16:47:35.0054+07:00 - INFO  - App.OnStartup - Runtime info:
+Flow Launcher version: 2.1.3
+OS Version: 19044.7663
+IntPtr Length: 8
+x64: True
+16:47:35.3411+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://fastly.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+16:47:35.3707+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://gcore.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+16:47:35.3707+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+16:47:35.3707+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loading plugins from https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.PluginsManifest/main/plugins.json
+16:47:35.6345+07:00 - INFO  - CommunityPluginSource.FetchAsync - Loaded 354 plugins from https://cdn.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json
+16:47:35.6392+07:00 - WARN  - CommunityPluginSource.FetchAsync - Failed to load resource https://fastly.jsdelivr.net/gh/Flow-Launcher/Flow.Launcher.PluginsManifest@main/plugins.json with response InternalServerError
+16:47:35.6392+07:00 - WARN  - CommunityPluginSource.FetchAsync - Failed to load resource https://raw.githubusercontent.com/Flow-Launcher/Flow.Launcher.PluginsManifest/main/plugins.json with response InternalServerError
+16:47:36.6300+07:00 - INFO  - ImageLoader.InitializeAsync - Preload images cost <1213ms>
+16:47:36.6352+07:00 - INFO  - ImageLoader.InitializeAsync - Number of preload images is <60>, Images Number: 60, Unique Items 49
+16:47:37.2365+07:00 - INFO  - App.OnStartup - End Flow Launcher startup ------------------------------------------------------
+16:47:37.2365+07:00 - INFO  - App.OnStartup - Begin plugin initialization ----------------------------------------------------
+16:47:39.0643+07:00 - INFO  - App.OnStartup - Startup cost <4495ms>
+16:47:39.0643+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Plugin Indicator> is <51ms>
+16:47:39.0882+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Plugins Manager> is <204ms>
+16:47:39.0882+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Process Killer> is <95ms>
+16:47:39.0882+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <URL> is <89ms>
+16:47:39.0948+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <System Commands> is <179ms>
+16:47:39.1070+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Windows Settings> is <245ms>
+16:47:39.2126+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Shell> is <297ms>
+16:47:39.2483+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Web Searches> is <352ms>
+16:47:39.2483+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Browser Bookmarks> is <373ms>
+16:47:39.2483+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Calculator> is <315ms>
+16:47:39.2483+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Explorer> is <396ms>
+16:47:39.2963+07:00 - INFO  - Main.InitAsync - Preload programs cost <48ms>
+16:47:39.2963+07:00 - INFO  - Main.InitAsync - Number of preload win32 programs <115>
+16:47:39.2963+07:00 - INFO  - Main.InitAsync - Number of preload uwps <8>
+16:47:39.3313+07:00 - INFO  - PluginManager.InitializePluginsAsync - Total init cost for <Program> is <344ms>
+16:47:39.5058+07:00 - INFO  - App.OnStartup - End plugin initialization ------------------------------------------------------
+16:47:39.5058+07:00 - INFO  - App.OnStartup - Startup cost <2269ms>
+17:28:06.0299+07:00 - INFO  - App.RegisterExitEvents - Session Ending
