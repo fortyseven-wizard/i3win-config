@@ -1,13 +1,5 @@
 {
   "records": {
-    "pts": [
-      {
-        "Title": "Adobe Photoshop",
-        "SubTitle": "",
-        "PluginID": "791FC278BA414111B8D1886DFE447410",
-        "RecordKey": null
-      }
-    ],
     "ps": [
       {
         "Title": "Adobe Photoshop",
@@ -32,17 +24,9 @@
         "RecordKey": null
       }
     ],
-    "lc": [
+    "lrc": [
       {
         "Title": "Adobe Lightroom Classic",
-        "SubTitle": "",
-        "PluginID": "791FC278BA414111B8D1886DFE447410",
-        "RecordKey": null
-      }
-    ],
-    "il": [
-      {
-        "Title": "Adobe Illustrator",
         "SubTitle": "",
         "PluginID": "791FC278BA414111B8D1886DFE447410",
         "RecordKey": null
