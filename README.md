@@ -1,4 +1,5 @@
-``` piwsh4mpcfsy/ aka Minimal ```
+<h2>yasb variations</h2>
+<h4>piwsh4mpcfsy/ aka Minimal</h4>
 
 Wallpaper: https://steamcommunity.com/sharedfiles/filedetails/?id=915680280
 
@@ -8,7 +9,7 @@ Wallpaper: https://steamcommunity.com/sharedfiles/filedetails/?id=915680280
 
 <p></p>
 
-``` cizgoamqcp1se/ aka Enhanced ```
+<h4>cizgoamqcp1se/ aka Enhanced</h4>
 
 Wallpaper: https://steamcommunity.com/sharedfiles/filedetails/?id=3175692671
 
@@ -16,14 +17,12 @@ Wallpaper: https://steamcommunity.com/sharedfiles/filedetails/?id=3175692671
 
 <p></p>
 
-``` qtosg4d3p7zy/ aka Tachyon ```
+<h4>qtosg4d3p7zy/ aka Tachyon</h4>
 
 Wallpaper: https://steamcommunity.com/sharedfiles/filedetails/?id=2835320262
 
 <img width="49%" src="https://github.com/user-attachments/assets/1469da32-fc5a-4792-8af1-5958699489cf" />
 <img width="49%" src="https://github.com/user-attachments/assets/2f25bd0f-d419-4528-ade4-e28ae9bd4bf2" />
-
-
 
 <hr>
 
@@ -32,7 +31,7 @@ recommended Windows installation overview: https://wispydocs.pages.dev/windows/
 
 #### ricing-tools: 
 
-- <a href="https://github.com/glzr-io/glazewm">GlazeWM</a>/ tiling wm inspired by i3wm/ simpler to use and config than komorebi imo
+- <a href="https://github.com/glzr-io/glazewm">GlazeWM</a>/ tiling wm inspired by i3wm
 
     `` winget install glzr-io.glazewm ``
   
@@ -48,7 +47,7 @@ recommended Windows installation overview: https://wispydocs.pages.dev/windows/
 
     `` winget install Flow-Launcher.Flow-Launcher ``
 
-- <a href="https://www.voidtools.com/">Everything Search</a>/ search engine that locates files and folders instantly/ can be used as plugin with Flow Launcher
+- <a href="https://www.voidtools.com/">Everything Search</a>/ search engine that locates files and folders instantly/ can be used with Flow Launcher
 
     `` winget install voidtools.Everything ``
 
@@ -56,7 +55,7 @@ recommended Windows installation overview: https://wispydocs.pages.dev/windows/
 
     `` winget install Nilesoft.Shell ``
   
-- <a href="https://github.com/Open-Shell/Open-Shell-Menu">Open-Shell</a>/ collection of utilities bringing back classic features/ it is used to disable the 'Win' key and bring back the old start menu
+- <a href="https://github.com/Open-Shell/Open-Shell-Menu">Open-Shell</a>/ collection of utilities bringing back classic features/ can be able to disable the default "startmenu" when pressing "Win" key
 
     `` winget install Open-Shell.Open-Shell-Menu ``
 
@@ -79,7 +78,7 @@ recommended Windows installation overview: https://wispydocs.pages.dev/windows/
 
     ```
     winget install JanDeDobbeleer.OhMyPosh --source winget
-    winget install -e --id DEVCOM.JetBrainsMonoNerdFont
+    oh-my-posh font install meslo
     ```
 
 ### Usage
@@ -103,7 +102,7 @@ C:\Users\%username%\.config\fastfetch
 C:\Users\%username%\.config\oh-my-posh
 ```
 
-pwsh_ps1
+pwsh.ps1
 
 ```
 <# add-target: -NoLogo
