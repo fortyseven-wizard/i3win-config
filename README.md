@@ -19,10 +19,11 @@ Wallpaper: https://steamcommunity.com/sharedfiles/filedetails/?id=3175692671
 
 <h4>qtosg4d3p7zy/ aka Tachyon</h4>
 
-Wallpaper: https://steamcommunity.com/sharedfiles/filedetails/?id=2835320262
+Wallpaper: https://steamcommunity.com/sharedfiles/filedetails/?id=1883906261
 
-<img width="49%" src="https://github.com/user-attachments/assets/1469da32-fc5a-4792-8af1-5958699489cf" />
-<img width="49%" src="https://github.com/user-attachments/assets/2f25bd0f-d419-4528-ade4-e28ae9bd4bf2" />
+<img width="49%" src="https://github.com/user-attachments/assets/6fb73039-31d2-46e8-8b69-4df8332a7512" />
+<img width="49%" src="https://github.com/user-attachments/assets/a4d850e8-6f6c-4d4c-a50e-1ffe5fdd30ee" />
+
 
 <hr>
 
@@ -111,5 +112,6 @@ pwsh.ps1
 cls
 cd ~
 fastfetch -l C:\Users\%username%\.config\fastfetch\ascii-art.txt -c C:\Users\%username%\.config\fastfetch\config.jsonc --logo-color-1 "#F5BDE6" --color "#8AADF4"
-oh-my-posh init pwsh --config "C:\Users\%username%\.config\oh-my-posh\theme.json" | Invoke-Expression
+oh-my-posh init pwsh --config "C:\Users\%username%\.config\oh-my-posh\xxx.json" | Invoke-Expression
+echo "`n"
 ```
