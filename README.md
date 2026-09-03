@@ -84,15 +84,15 @@ recommended Windows installation overview: https://wispydocs.pages.dev/windows/
 
 ### Usage
 
-GlazeWM: 
+GlazeWM
 
 `` C:\Users\%username%\.glzr\glazewm ``
 
-YASB:
+YASB
 
 `` C:\Users\%username%\.config\yasb ``
 
-Flow Launcher:
+Flow Launcher
 
 ``` C:\Users\%username%\AppData\Roaming\FlowLauncher ```
 
